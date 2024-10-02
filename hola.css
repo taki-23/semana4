@@ -1,0 +1,11 @@
+
+article{
+    width: 98%;
+	height: 280px;
+	margin: 1px;
+	overflow: hidden;
+}
+article:hover .img_article{
+    height: 0px;
+    transition: all ease 1s;
+}
